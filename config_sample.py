@@ -9,7 +9,7 @@ DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://Mirror:Rextor99@mirror.ss86yjw.mongodb.net/?retryWrites=true&w=majority"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
