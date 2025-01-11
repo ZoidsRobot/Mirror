@@ -9,7 +9,7 @@ DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://Mirror:Rextor99@mirror.ss86yjw.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URL = "mongodb+srv://LadyMusic:Rextor99@lady.x6n1uwh.mongodb.net/?retryWrites=true&w=majority"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -34,8 +34,8 @@ RCLONE_SERVE_PORT = 8080
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
-JD_EMAIL = ""
-JD_PASS = ""
+JD_EMAIL = "zoidsmirror@gmail.com"
+JD_PASS = "@Rextor99"
 # Sabnzbd
 USENET_SERVERS = [
     {
