@@ -9,7 +9,7 @@ DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://LadyMusic:Rextor99@lady.x6n1uwh.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URL = "mongodb+srv://A1:Rextor99@cluster0.qfeo8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
